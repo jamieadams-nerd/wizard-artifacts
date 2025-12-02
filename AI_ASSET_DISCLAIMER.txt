@@ -1,0 +1,23 @@
+AI-ASSET DISCLAIMER AND USAGE TERMS
+
+This repository contains wizard-themed artwork, icons, character images, and branding elements created through ChatGPT’s AI image generation system at the direction of Jamie L. Adams.
+
+Ownership and Rights
+All images here were generated using prompts and creative direction provided by Jamie L. Adams.
+Under OpenAI’s terms of use, Jamie L. Adams holds the rights to use, reproduce, publish, modify, and distribute these generated images.
+
+Permitted Use
+• You may use, remix, modify, and include these images in your own non-commercial or open-source projects.
+• You must retain attribution to “Image generated via AI under the direction of Jamie L. Adams” when redistributing or publishing the images.
+• You may include these images in documentation, artwork, blog posts, GitHub repositories, and personal creative work.
+
+Restrictions
+• These AI-generated images are not intended for trademark registration or commercial brand identity without obtaining explicit permission from Jamie L. Adams.
+• These images must not be represented as photographs or depictions of real individuals.
+• Do not imply that the artwork was created by a human artist unless you clearly specify it was AI-generated.
+
+No Warranty
+The images are provided “as-is” with no warranty or guarantee. They may contain visual artifacts, inaccuracies, or unintended elements typical of AI-generated content.
+
+Contact
+For commercial licensing inquiries or clarification of usage rights, contact Jamie L. Adams directly.
