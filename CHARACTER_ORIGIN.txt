@@ -1,0 +1,7 @@
+CHARACTER ORIGIN AND INSPIRATION STATEMENT
+
+The “High Herbalist” and “Thistledown Greenleaf” characters used in this repository are original creations of Jamie L. Adams. They are not based on, affiliated with, or derived from any existing literary, cinematic, or commercial characters.
+
+The aesthetic and thematic inspiration comes from the classic Bell Labs “UNIX Magic” poster and the historical book “UNIX Magic: The Secret Garden Explained,” which both used wizard motifs to illustrate the elegance and mystery of early Unix systems.
+
+This repository’s wizard persona is entirely original, fictional, and created solely for creative, educational, and branding purposes.
